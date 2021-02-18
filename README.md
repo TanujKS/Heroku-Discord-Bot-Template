@@ -1,1 +1,1 @@
-# Heroku-Discord-Bot-Template
+#THIS IS AN EXAMPLE FOR A DISCORD BOT HOSTED ON HEROKU
